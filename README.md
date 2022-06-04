@@ -91,7 +91,7 @@ git clone https://github.com/pajeeh/TESTE-DEV.git
 ```
 #### Vá até o diretório:
 ```bash
-cd TESTE-DEV
+cd TESTE-DEV/FrontEnd
 ```
 #### Execute o serviço ng:
 ```bash
