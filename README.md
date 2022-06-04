@@ -97,3 +97,7 @@ cd TESTE-DEV/FrontEnd
 ```bash
 ng serve -o
 ```
+Caso solicite, instale o npm com:
+```bash
+npm install
+```
