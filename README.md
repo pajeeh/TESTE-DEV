@@ -93,11 +93,11 @@ git clone https://github.com/pajeeh/TESTE-DEV.git
 ```bash
 cd TESTE-DEV/FrontEnd
 ```
+#### Instale o npm com:
+```bash
+npm install
+```
 #### Execute o serviço ng:
 ```bash
 ng serve -o
-```
-Caso solicite, instale o npm com:
-```bash
-npm install
 ```
