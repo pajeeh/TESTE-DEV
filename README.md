@@ -69,9 +69,9 @@ em um projeto futuro.
 
 · Necessário ter o Python 3.8 ou superior instalado na máquina
 
-· Deve possuir o suporte ao Angular.js
+· Deve possuir o suporte ao Angular CLI
 
-· Deve ter instalado em sua máquina, 
+· Deve ter instalado em sua máquina o npm (necessário para utilizar o comando ng)
 
 · Instalar as libs do Flask:
 
