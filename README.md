@@ -1,7 +1,7 @@
 
 # TESTE DEV CloudOpss
 
-Esse projeto tem como objetivo, entregar o desafio DEV CloudOpss
+Esse repositório tem como objetivo, entregar o desafio DEV CloudOpss
 
 O desafio consiste em:
 
